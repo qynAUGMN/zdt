@@ -1,3 +1,5 @@
 /.idea/
 /node_modules/
 /example/script/bower_components/
+
+yarn.lock
