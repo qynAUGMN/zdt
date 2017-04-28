@@ -7,9 +7,9 @@
 
 ## 因未发布到npm。所以，目前的使用方式如下：
 
-- 下载zdt包，源码地址：[https://git.coding.net/harx/zdt.git](https://git.coding.net/harx/zdt.git)
+- 下载zdt包，源码地址：[git@github.com:qynAUGMN/zdt.git](git@github.com:qynAUGMN/zdt.git)
         
-        git clone https://git.coding.net/harx/zdt.git
+        git clone git@github.com:qynAUGMN/zdt.git
         
 - 进入目录，npm全局安装。（可能需要管理员权限）
 
